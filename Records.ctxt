@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Records
+comment1.params=record
+comment1.target=void\ add(Record)
+comment2.params=record
+comment2.target=void\ remove(Record)
+comment3.params=id
+comment3.target=Record\ find(int)
+comment4.params=id
+comment4.target=boolean\ found(int)
+comment5.params=message
+comment5.target=int\ readInt(java.lang.String)
+comment6.params=message
+comment6.target=double\ readDouble(java.lang.String)
+comment7.params=message
+comment7.target=java.lang.String\ readString(java.lang.String)
+comment8.params=
+comment8.target=int\ size()
+comment9.params=
+comment9.target=void\ show()
+numComments=10

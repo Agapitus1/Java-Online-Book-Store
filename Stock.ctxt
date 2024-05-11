@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=book\ qty
+comment1.target=Stock(Book,\ int)
+comment2.params=book
+comment2.target=boolean\ matches(Book)
+comment3.params=qty
+comment3.target=void\ add(int)
+comment4.params=qty
+comment4.target=boolean\ has(int)
+comment5.params=num
+comment5.target=void\ buy(int)
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

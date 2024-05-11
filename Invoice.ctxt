@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Invoice
+comment1.params=id\ customer\ stocks
+comment1.target=Invoice(int,\ Customer,\ Stocks)
+comment2.params=book\ qty
+comment2.target=void\ add(Book,\ int)
+comment3.params=
+comment3.target=double\ freight()
+comment4.params=
+comment4.target=Customer\ getCustomer()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ show()
+numComments=7
